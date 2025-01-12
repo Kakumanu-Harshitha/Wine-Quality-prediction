@@ -37,4 +37,15 @@ Output variable (based on sensory data)
 
 Acknowledgements
 This dataset is also available from the UCI machine learning repository,link: https://archive.ics.uci.edu/ml/datasets/wine+quality, to get both the dataset i.e. red and white vinho verde wine samples, from the north of Portugal.
-# For direct Download click on this link (https://github.com/user-attachments/files/18386379/winequality-white.csv)
+**For direct Download click on this link** (https://github.com/user-attachments/files/18386379/winequality-white.csv)
+ 
+# Requirements:
+Pandas 
+Numpy
+Matplotlib
+tensorflow
+keras
+# programming languages:
+Python
+# owner:
+[Kakumanu-Harshitha](https://github.com/Kakumanu-Harshitha)
