@@ -40,10 +40,14 @@ This dataset is also available from the UCI machine learning repository,link: ht
 **For direct Download click on this link** (https://github.com/user-attachments/files/18386379/winequality-white.csv)
  
 # Requirements:
-Pandas 
+Pandas
+
 Numpy
+
 Matplotlib
+
 tensorflow
+
 keras
 # programming languages:
 Python
